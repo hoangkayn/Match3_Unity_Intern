@@ -9,7 +9,7 @@
 - Thêm hoạt ảnh dịch sang trái (khi các item giống nhau bị xoá, các item còn lại sẽ dịch sang trái)
 - Thêm hoạt ảnh dịch sang phải (khi  item mới di chuyển xuống bottomrow, nếu ở bottomrow có item cùng loại thì nó sẽ làm dịch chuyển các item khác ở bên phải để chiếm chỗ )
 - Thêm nút Time Attack, tạo chế độ chơi theo thời gian, người chơi sẽ không thua khi các ô ở bottomrow đã đầy, người chơi có thể đưa 1 ô từ bottomrow trở về vị trí ban đầu ở board bằng cách chạm vào nó, người chơi sẽ thua nếu không xoá hết item trong 1 phút.
-- Cơ chế Pause hoạt động bình thường ở chế độ auto hoặc thường.
+- Cơ chế Pause hoạt động bình thường ở chế độ auto hoặc thường, khi game đang auto ngoài pause game không thực hiện được hành động nào khác.
 - Các item đang di chuyển có layer nằm trên các item khác.
 
 
